@@ -32,6 +32,9 @@ in wich, G is the Gram matrix of a vector X is X.X_transpose. and The intuiti
 
 
 Finally our output would be like bellow:
+
+
+
 ![image](https://github.com/hamed-tgh/Neural-Style-Transform/assets/47190471/ad8d764b-ac7b-4f02-9d54-ab13f950da09)
 
 
