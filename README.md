@@ -1,4 +1,4 @@
-![image](https://github.com/hamed-tgh/Neural-Style-Transform/assets/47190471/af3be644-01be-408b-b271-a028b5971c47)# Neural-Style-Transform
+# Neural-Style-Transform
 
 
 acording to wikipedia, Neural style transfer (NST) refers to a class of software algorithms that manipulate digital images, or videos, in order to adopt the appearance or visual style of another image.
