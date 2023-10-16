@@ -16,7 +16,7 @@ let's take a brief look at the whole project.
 we know that in the lower layers of a CNN we look for low level features such as lines or blobs. As we go to the higher layers, out features become increasingly complex. thus, we can conclude that ConvNets develop a hierarchical representation of features.
 
 
-in NST, while doing style transfer, we are not training a neural network. Rather, what we're doing is we start from a blank image composed of random pixel values, and we optimize a cost function by changing the pixel values of the image. in other words, while training neural networks we update our weights and biases, but in style transfer, we keep the weights and biases constant, and instead, update our image based on a eror function which is like bellow:
+in NST, while doing style transfer, we are not training a neural network. Rather, what we're doing is we start from a blank image composed of random pixel values, and we optimize a cost function by changing the pixel values of the image. in other words, while training neural networks we update our weights and biases, but in style transfer, we keep the weights and biases constant, and instead, update our image based on a error function which is like bellow:
 
 ![image](https://github.com/hamed-tgh/Neural-Style-Transform/assets/47190471/2221a380-54d1-44fc-8750-d6fbf8f54d01)
 
